@@ -1,4 +1,4 @@
-# Time_series_statistical_tables_-estimated_population-_Changes_in_population-municipality1985-2015-
+# time_series_statistical_tables_-estimated_population-_changes_in_population-municipality1985-2015-
 【和歌山県及び県内市町村の人口推移です。】
 ◆和歌山県及び県内市町村の毎年１０月１日現在の人口を掲載しています。
 http://www.pref.wakayama.lg.jp/prefg/020300/kokusei/jikeiretu/excel/suikei/02sityou-s60.xls
